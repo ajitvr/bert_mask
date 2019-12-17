@@ -31,6 +31,10 @@ A sentence "He went to prison _cell_ with his _cell_ phone to extract blood _cel
 
 The neighbors for the word "cell" in the sentence above are different for the different contexts. Note all displayed neighbors are words in BERT vocab. This test was done using pretrained model - bert-base-cased
 
+Data files.
+Bert vectors.
+https://drive.google.com/file/d/1vBEOR25_ajAoNmtgoy-TFJBX-4wj5WF_/view?usp=sharing
+https://drive.google.com/file/d/1X1mE8OZVnYZnFXgZx7Wfaop7_pOLDGnP/view?usp=sharing
 
 
 # License
